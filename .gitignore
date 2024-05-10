@@ -132,7 +132,7 @@ dmypy.json
 data/
 output/
 test-output/
-monarch-kg/*
+monarch-kg/
 
 #IDE stuff
 .idea/
