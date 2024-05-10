@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/glass-ships/cookiecutter-monarch-ingest.git",
+  "commit": "433c6c1ff50cb1aae1d9f13164ca4829b08e2bee",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "github_org_name": "monarch-initiative",
+      "project_name": "phenolog-transform",
+      "project_description": "transform raw phenolog output to kgx format",
+      "project_url": "https://github.com/monarch-initiative/phenolog-transform.git",
+      "__project_slug": "phenolog_transform",
+      "ingest_source": "monarch",
+      "ingest_type": "phenolog",
+      "__ingest_name": "monarch_phenolog",
+      "min_python_version": "3.10",
+      "full_name": "Aaron Odell",
+      "email": "aaron.odell33@gmail.com",
+      "__author": "Aaron Odell <aaron.odell33@gmail.com>",
+      "license": "MIT",
+      "_template": "https://github.com/glass-ships/cookiecutter-monarch-ingest.git"
+    }
+  },
+  "directory": null
+}
